@@ -1,3 +1,3 @@
-## Welcome to my GitHub Page
+## Welcome to my GitHub page
 
-### This Page is still under construction
+### This page is still under construction
