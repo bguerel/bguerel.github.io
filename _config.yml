@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
 title: Benhur Gürel
-author:
-  name: Benhur Gürel
-  email: guerel@tuta.io
+#author:
+#  name: Benhur Gürel
+#  email: guerel@tuta.io
 description: >
   bguerel.github.io
 show_downloads: false
