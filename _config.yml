@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
 title: Benhur Gürel
-author:
-  name: Benhur Gürel
-  email: guerel@tuta.io
+#author:
+#  name: Benhur Gürel
+#  email: guerel@tuta.io
 description: >
   bguerel.github.io
 show_downloads: false
@@ -10,10 +10,10 @@ google_analytics: UA-147142024-3
 google_verify: CYwrcfCC0DN5gAKOI4JruNacFUJUkbNdXK8tZXbWyEg
 github:
   repository_url: https://github.com/bguerel
- 
+
 # timezone: "Europe/Berlin"
 # markdown: kramdown
-  
+
 # Social
 social_links:
   github: bguerel
@@ -27,6 +27,5 @@ social_links:
   # telegram: jekyll
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
