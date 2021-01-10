@@ -10,10 +10,10 @@ google_analytics: UA-147142024-3
 google_verify: CYwrcfCC0DN5gAKOI4JruNacFUJUkbNdXK8tZXbWyEg
 github:
   repository_url: https://github.com/bguerel
- 
+
 # timezone: "Europe/Berlin"
 # markdown: kramdown
-  
+
 # Social
 social_links:
   github: bguerel
