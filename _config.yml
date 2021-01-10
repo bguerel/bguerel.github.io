@@ -27,6 +27,6 @@ social_links:
   # telegram: jekyll
 
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
