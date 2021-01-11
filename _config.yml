@@ -15,8 +15,15 @@ github:
 # markdown: kramdown
 
 # Social Links
-twitter_username: b_guerel
-email_address: guerel@tuta.io
+#twitter_username: b_guerel
+#email_address: guerel@tuta.io
+
+social-links:
+  twitter: b_guerel
+  facebook: GitHub
+  github: bguerel
+  email_address: guerel@tuta.io
+  youtube_channel: github
 
 plugins:
   - jekyll-sitemap
