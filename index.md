@@ -235,7 +235,13 @@
 
 <div class="skills-section">
 
-  <h3>// Skills</h3>
+  <div class="card-6">
+    <div class="card-6__holo">
+      <span class="card-6__layer card-6__layer--back">SKILLS</span>
+      <span class="card-6__layer card-6__layer--mid">SKILLS</span>
+      <span class="card-6__layer card-6__layer--front">SKILLS</span>
+    </div>
+  </div>
 
   <div class="skills-grid">
     <div class="skill-card-wrap"><div class="skill-card">
@@ -285,7 +291,13 @@
     </div></div>
   </div>
 
-  <h3>// Certifications</h3>
+  <div class="card-6">
+    <div class="card-6__holo">
+      <span class="card-6__layer card-6__layer--back">CERTIFICATES</span>
+      <span class="card-6__layer card-6__layer--mid">CERTIFICATES</span>
+      <span class="card-6__layer card-6__layer--front">CERTIFICATES</span>
+    </div>
+  </div>
 
   <div class="cert-grid">
     <div class="cert-card-wrap">
