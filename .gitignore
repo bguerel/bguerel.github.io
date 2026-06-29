@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+.vscode/
+
+# Editor
+.vscode
+*.swp
+*.bak
+*~
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Gems
+vendor/
+.bundle/
